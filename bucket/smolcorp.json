@@ -1,5 +1,5 @@
 {
-    "version": "1.8.1",
+    "version": "1.9.0",
     "description": "A control pad on your phone for the AI coding agents in your terminal",
     "homepage": "https://github.com/Sauzze/smolcorp",
     "license": "MIT",
@@ -10,13 +10,13 @@
     ],
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Sauzze/smolcorp/releases/download/v1.8.1/Smolcorp-Windows-x86_64.zip",
-            "hash": "20a75da9814f4564ebd95be8459de5e8b389b4e3d4a537dd93b334bff6a784fe",
+            "url": "https://github.com/Sauzze/smolcorp/releases/download/v1.9.0/Smolcorp-Windows-x86_64.zip",
+            "hash": "806a2ce140f34e9ed3e6779e2431ee465980d3b21c3b20f2adac57140db30a34",
             "extract_dir": "Smolcorp-Windows-x86_64"
         },
         "arm64": {
-            "url": "https://github.com/Sauzze/smolcorp/releases/download/v1.8.1/Smolcorp-Windows-arm64.zip",
-            "hash": "b67393753cd3132cd6da5a02e983745cdbc067af3f50fc768d3e2b1ffefe74e9",
+            "url": "https://github.com/Sauzze/smolcorp/releases/download/v1.9.0/Smolcorp-Windows-arm64.zip",
+            "hash": "8775d3140e8581ad119da7c0a80ac87ea2488471826e8df63bde6139c6244ebd",
             "extract_dir": "Smolcorp-Windows-arm64"
         }
     },
